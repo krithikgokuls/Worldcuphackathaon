@@ -1,0 +1,10 @@
+I have coded using visual studio code 
+Mongodb is for connectivity with visual studio code
+postman tool is for api creation using json format
+
+in terminal of visual studio code
+
+npm init-for creating package.json
+npm install cors mongooose nodemon express - for supporting index route and model.js
+npm dotenv is for supporting index.js format
+npm start means refers to error message or database is connected with mongodb
