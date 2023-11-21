@@ -1,0 +1,18 @@
+post method i connect by using url :localhost:9000/api/signup
+input environmental variables.json 
+
+{
+    "name": "Rohit Sharma",
+    "age": 36,
+    "destination": "India Team Caption"
+}
+
+output environmental variables.json
+
+{
+    "name": "Rohit Sharma",
+    "age": 36,
+    "destination": "India Team Caption",
+    "_id": "655c6168e3522b5bb5e4063a",
+    "__v": 0
+}
